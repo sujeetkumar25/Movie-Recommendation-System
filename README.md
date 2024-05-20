@@ -5,10 +5,10 @@ The provided information details a web-based movie recommendation engine built u
 
 Recommends movies based on collaborative filtering, a popular recommendation technique.
 The underlying idea is that users who liked similar movies in the past are likely to enjoy similar unseen movies.
-Technologies Used:
+
+# Technologies Used:
 
 # Web Technologies:
-
 HTML: Structures the content of the web page.
 CSS: Defines the style and layout of the web page.
 JavaScript: Adds interactivity to the web page.
